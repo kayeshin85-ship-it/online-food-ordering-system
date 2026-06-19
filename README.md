@@ -1,6 +1,6 @@
 # online-food-ordering-system
 
-This is a dummy repository for the CBSC4103 Software Construction assignment.
+This is a repository for the CBSC4103 Software Construction assignment.
 
 ## Main Features
 - User Registration
